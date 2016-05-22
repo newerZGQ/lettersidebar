@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideBar">
+        <attr name="backgroundLineColor" format="color"/>
+        <attr name="sideBarLength" format="integer"/>
+        <attr name="sideBarWidth" format="integer"/>
+        <attr name="slipperColorTouched" format="color"/>
+        <attr name="slipperColorUntouch" format="color"/>
+        <attr name="letter" format="string"/>
+        <attr name="letterSize" format="integer"/>
+        <attr name="shapeColor" format="color"/>
+        <attr name="letterColor" format="color"/>
+    </declare-styleable>
+
+</resources>
